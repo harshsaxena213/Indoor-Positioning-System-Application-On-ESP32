@@ -201,12 +201,12 @@ Upload the ESP32 code using:
 ![Rssi Capture](capture_rssi/Final_data_2.JPG)
 
 
-![Trajectory](results/trajectory.png)
+![Trajectory](https://raw.githubusercontent.com/harshsaxena213/Indoor-Positioning-System-Application-On-ESP32/main/results/trajectory.png)
 
 ![Kalman Filter On Network 1](results/filter_on_anchor1.png)
 
 
-![Kalman Filter On Network 2](./results/filter_on_anchor2.png)
+![Kalman Filter On Network 2](/results/filter_on_anchor2.png)
 
 
 ![Kalman Filter On Network 3](/results/filter_on_anchor3.png)
