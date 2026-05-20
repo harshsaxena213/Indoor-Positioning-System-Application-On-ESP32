@@ -206,10 +206,10 @@ Upload the ESP32 code using:
 ![Kalman Filter On Network 1](results/filter_on_anchor1.png)
 
 
-![Kalman Filter On Network 2](results/filter_on_anchor2.png)
+![Kalman Filter On Network 2](./results/filter_on_anchor2.png)
 
 
-![Kalman Filter On Network 3](results/filter_on_anchor3.png)
+![Kalman Filter On Network 3](/results/filter_on_anchor3.png)
 
 ```
 
