@@ -1,4 +1,8 @@
-# Indoor Positioning System Application On ESP32
+# Indoor Positioning System Application On ESP32  
+
+📄 **Paper:**  
+
+[Paper PDF](https://drive.google.com/file/d/1C13kyhwNx3jdwY071G_3ajrrIu1GqNbN/view?usp=drive_link)
 
 This project implements an indoor positioning system using three ESP32 anchor nodes and RSSI-based trilateration. The system estimates the position of a target ESP32 device by measuring Wi-Fi signal strength (RSSI) from multiple anchors.
 
